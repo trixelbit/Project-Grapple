@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c975bc4cb2e6044d8e71267fd217bc6, type: 3}
+  m_Name: run
+  m_EditorClassIdentifier: 
+  main: {fileID: 2800000, guid: ea79d91735a955f4abd1d33b0d75372d, type: 3}
+  normal: {fileID: 2800000, guid: 473e308f063d78843967fee56ffe1888, type: 3}
+  frameCount: 4
+  speed: 8
